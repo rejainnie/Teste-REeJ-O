@@ -1,8 +1,6 @@
 import streamlit as st
 import pandas as pd
 
-import seaborn as sns
-
 # Configuração da página para uma estética agradável
 st.set_page_config(layout="centered", page_title="Formulário de Registro de Dados", page_icon="📝")
 
